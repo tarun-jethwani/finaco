@@ -1,0 +1,3 @@
+./creds.txt
+./djangobk/db.sqlite3
+./frontend/.env
